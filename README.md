@@ -1,29 +1,30 @@
-# 👋 Olá! Eu sou o Matheus Amaral  
+# 👋 Olá, eu sou o Matheus Amaral!  
 
-🎓 **Pesquisador de Ciência de Dados | Bioinformática | Machine Learning**  
+💡 **Cientista de Dados | Machine Learning | Bioinformática**  
 
-Sou um cientista de dados com três anos de experiência em **análise e processamento de dados**, com foco em **aprendizado de máquina e bioinformática**. Atualmente, curso **mestrado acadêmico**, onde desenvolvo soluções para **análise exploratória, pré-processamento e modelagem preditiva de dados biológicos**.
+Atuo como pesquisador com experiência em **análise de dados, modelagem preditiva e aprendizado de máquina**, aplicando técnicas avançadas para resolver desafios complexos e apoiar a **tomada de decisão baseada em dados**.  
 
-💡 Minhas principais habilidades incluem:  
-✅ **Linguagens & Ferramentas:** Python | R | SQL  
-✅ **Visualização de Dados:** Dashboards interativos com **Shiny**, bibliotecas de visualização (ggplot2, Matplotlib, Seaborn, Plotly)  
-✅ **Modelagem Preditiva:** Métodos de **classificação, regressão e geração de dados sintéticos**  
-✅ **Manipulação de Dados:** Pandas, dplyr, NumPy  
-✅ **Bioinformática:** Aplicação de técnicas avançadas para extração de insights biológicos  
-
-📊 Minha experiência me permite transformar dados complexos em informações estratégicas para **otimizar processos, estruturar modelos preditivos eficientes e criar visualizações intuitivas** que apoiam a tomada de decisão.
+Atualmente, estou cursando um **mestrado acadêmico**, onde desenvolvo soluções para **análise exploratória, pré-processamento e modelagem de dados biológicos**. Minha experiência inclui a aplicação de **técnicas estatísticas e aprendizado de máquina** para extrair **insights acionáveis** e otimizar processos analíticos.  
 
 ---
 
-### 📂 Projetos Destacados
-🔬 **[Projeto 1: Análise de Expressão Gênica com Machine Learning](#)**  
-📊 **[Projeto 2: Dashboard Interativo para Visualização de Dados Biológicos](#)**  
-🤖 **[Projeto 3: Modelo de Predição para Diagnóstico de Doenças](#)**  
+### 📊 Principais habilidades  
+✔️ **Análise e processamento de dados** com Python, R e SQL  
+✔️ **Desenvolvimento de modelos de Machine Learning** para classificação, regressão e clusterização  
+✔️ **Manipulação de bancos de dados relacionais** e consultas otimizadas em SQL  
+✔️ **Criação de dashboards interativos** e visualizações de dados com **Shiny e Power BI**  
+✔️ **Extração de insights acionáveis** para otimização de processos e estratégias  
 
 ---
 
-### 📫 Como me encontrar:
-- 💼 [LinkedIn][(https://www.linkedin.com/in/maatheusamaral/)]
-- 📧 [Email](mas.matheus9@gmail.com)  
+### 📂 Projetos Destacados  
+📊 **[Projeto 1: Dashboard para Análise de Dados Financeiros](#)**  
+🤖 **[Projeto 2: Modelo Preditivo para Diagnóstico de Doenças](#)**  
+📈 **[Projeto 3: Algoritmos de Clusterização para Segmentação de Dados](#)**  
+
+---
+
+### 📫 Como me encontrar  
+- 💼 [LinkedIn][(https://www.linkedin.com/in/maatheusamaral/)]  
 
 ---
