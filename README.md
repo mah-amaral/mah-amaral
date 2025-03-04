@@ -25,6 +25,6 @@ Atualmente, estou cursando um **mestrado acadêmico**, onde desenvolvo soluçõe
 ---
 
 ### 📫 Como me encontrar  
-- 💼 [LinkedIn][(https://www.linkedin.com/in/maatheusamaral/)]  
+- 💼 [LinkedIn](https://www.linkedin.com/in/maatheusamaral/)
 
 ---
