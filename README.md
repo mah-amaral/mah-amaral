@@ -9,11 +9,11 @@ Atualmente, estou cursando um **mestrado acadêmico**, onde desenvolvo soluçõe
 ---
 
 ### 📊 Principais habilidades  
-✔️ **Análise e processamento de dados** com Python, R e SQL  
-✔️ **Desenvolvimento de modelos de Machine Learning** para classificação, regressão e clusterização  
-✔️ **Manipulação de bancos de dados relacionais** e consultas otimizadas em SQL  
-✔️ **Criação de dashboards interativos** e visualizações de dados com **Shiny e Power BI**  
-✔️ **Extração de insights acionáveis** para otimização de processos e estratégias  
+✔️ **Análise e processamento de dados** com Python, R e SQL;  
+✔️ **Desenvolvimento de modelos de Machine Learning** para classificação, regressão e clusterização;  
+✔️ **Manipulação de bancos de dados relacionais** e consultas otimizadas em SQL;  
+✔️ **Criação de dashboards interativos** e visualizações de dados com **Shiny e Power BI**;  
+✔️ **Extração de insights acionáveis** para otimização de processos e estratégias.  
 
 ---
 
