@@ -12,7 +12,6 @@ Durante o mestrado, desenvolvi um **framework de bioinformática** para comparar
 - **Visualizações interativas** com o pacote **Shiny**
 - **Pré-processamento robusto** de dados biológicos
 
----
 
 ## 🧠 Principais habilidades  
 ✔️ **Análise e processamento de dados** com Python, R e SQL;  
@@ -21,7 +20,6 @@ Durante o mestrado, desenvolvi um **framework de bioinformática** para comparar
 ✔️ **Criação de dashboards interativos** e visualizações de dados com **Tableau, Power BI e Shiny**;  
 ✔️ **Extração de insights acionáveis** para otimização de processos e estratégias. 
 
----
 
 ## 📊 Experiência em Ciência de Dados
 
@@ -31,7 +29,6 @@ Durante o mestrado, desenvolvi um **framework de bioinformática** para comparar
 - **Validação e tuning de modelos** com Tidymodels e Scikit-learn
 - **Interpretação estatística e visualização clara de resultados**
 
----
 
 ## 📂 Projetos Destacados  
 📊 **[Projeto 1: Dashboard para Análise de Dados Financeiros](#)**  
@@ -39,7 +36,6 @@ Durante o mestrado, desenvolvi um **framework de bioinformática** para comparar
 📈 **[Projeto 3: Algoritmos de Clusterização para Segmentação de Dados](#)**  
 - 🧪 [Portfólio de Projetos](https://github.com/seuusuario)
 
----
 
 ## 📫 Como me encontrar  
 - 💼 [LinkedIn](https://www.linkedin.com/in/maatheusamaral/)
