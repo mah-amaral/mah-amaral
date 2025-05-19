@@ -14,7 +14,7 @@ Durante o mestrado, desenvolvi um **framework de bioinformática** para comparar
 
 ---
 
-### 🧠 Principais habilidades  
+## 🧠 Principais habilidades  
 ✔️ **Análise e processamento de dados** com Python, R e SQL;  
 ✔️ **Desenvolvimento de modelos de Machine Learning** para classificação, regressão e clusterização;  
 ✔️ **Manipulação de bancos de dados relacionais** e consultas otimizadas em SQL;  
@@ -33,7 +33,7 @@ Durante o mestrado, desenvolvi um **framework de bioinformática** para comparar
 
 ---
 
-### 📂 Projetos Destacados  
+## 📂 Projetos Destacados  
 📊 **[Projeto 1: Dashboard para Análise de Dados Financeiros](#)**  
 🤖 **[Projeto 2: Modelo Preditivo para Diagnóstico de Doenças](#)**  
 📈 **[Projeto 3: Algoritmos de Clusterização para Segmentação de Dados](#)**  
@@ -41,7 +41,7 @@ Durante o mestrado, desenvolvi um **framework de bioinformática** para comparar
 
 ---
 
-### 📫 Como me encontrar  
+## 📫 Como me encontrar  
 - 💼 [LinkedIn](https://www.linkedin.com/in/maatheusamaral/)
 
 ---
