@@ -2,7 +2,7 @@
 
 💡 **Cientista de Dados | Machine Learning | Bioinformática**  
 
-Sou cientista de dados com **três anos de experiência** em **análise e processamento de dados** e **aprendizado de máquina**, com forte atuação em projetos voltados à **bioinformática**. Tenho formação em Física Médica e um **mestrado acadêmico em Biotecnologia** (IBB/UNESP), com foco em modelagem preditiva de dados biológicos.
+Sou cientista de dados com **três anos de experiência** em **análise e processamento de dados** e **aprendizado de máquina**, com forte atuação em projetos voltados à **bioinformática**. Tenho formação em Física Médica e um **mestrado em Biotecnologia** (IBB/UNESP), com foco em modelagem preditiva de dados biológicos.
 
 ## 🧪 Especialização em Bioinformática
 Durante o mestrado, desenvolvi um **framework de bioinformática** para comparar a resposta celular em diferentes superfícies de materiais biomédicos, utilizando:
