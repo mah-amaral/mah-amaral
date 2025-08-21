@@ -1,43 +1,61 @@
 # 👋 Olá, eu sou o Matheus Amaral!  
 
-💡 **Cientista de Dados | Machine Learning | Bioinformática**  
+💡 **Data Analytics | Data Science**  
 
-Sou cientista de dados com **três anos de experiência** em **análise e processamento de dados** e **aprendizado de máquina**, com forte atuação em projetos voltados à **bioinformática**. Tenho formação em Física Médica e um **mestrado em Biotecnologia** (IBB/UNESP), com foco em modelagem preditiva de dados biológicos.
+Atuo como Cientista de Dados e Consultor na área de analytics, com experiência em análise de dados, modelagem preditiva e aprendizado de máquina, aplicando técnicas avançadas para transformar dados em insights estratégicos e apoiar a tomada de decisão orientada por dados.
 
-## 🧪 Especialização em Bioinformática
-Durante o mestrado, desenvolvi um **framework de bioinformática** para comparar a resposta celular em diferentes superfícies de materiais biomédicos, utilizando:
+Mestre em Biotecnologia, desenvolvi soluções para análise exploratória, pré-processamento e modelagem de dados biológicos. Minha trajetória inclui a aplicação de técnicas estatísticas e de machine learning para extrair insights acionáveis e otimizar processos analíticos em diferentes contextos.
 
-- **Modelos de classificação e regressão**
-- **Geração de dados sintéticos** para treinar modelos
-- **Visualizações interativas** com o pacote **Shiny**
-- **Pré-processamento robusto** de dados biológicos
+---
 
+## 🚀 Sobre mim
 
-## 🧠 Principais habilidades  
-✔️ **Análise e processamento de dados** com Python, R e SQL;  
-✔️ **Desenvolvimento de modelos de Machine Learning** para classificação, regressão e clusterização;  
-✔️ **Manipulação de bancos de dados relacionais** e consultas otimizadas em SQL;  
-✔️ **Criação de dashboards interativos** e visualizações de dados com **Tableau, Power BI e Shiny**;  
-✔️ **Extração de insights acionáveis** para otimização de processos e estratégias. 
+- 📊 Atuação em **análise e tratamento de grandes volumes de dados** (cadastrais e de negócios);  
+- 🧑‍💻 Experiência em **Python, R e SQL**, além de ferramentas de BI como **Power BI e Tableau**;  
+- 🤖 Desenvolvimento de **modelos preditivos e de machine learning** para classificação e regressão;  
+- 📈 Construção de **dashboards interativos** e **visualizações de dados** para suporte à gestão;  
+- 🔬 Mestrando em **Biotecnologia (Bioinformática)** na UNESP, aplicando modelos de predição em dados biológicos.  
 
+---
 
-## 📊 Experiência em Ciência de Dados
+## 💼 Experiência
 
-- **Criação de dashboards interativos** e relatórios para suporte à decisão
-- **Análise exploratória de dados (EDA)** para entender padrões e outliers
-- **Modelagem preditiva** para aplicações biomédicas
-- **Validação e tuning de modelos** com Tidymodels e Scikit-learn
-- **Interpretação estatística e visualização clara de resultados**
+### 📌 Consultor de Dados (em andamento)
+- **Projeto 1**: Tratamento, padronização e estruturação de base de dados cadastrais de grande volume.  
+- **Projeto 2**: Desenvolvimento de dashboards interativos de desempenho, faturamento e marcas.  
 
+**Principais entregas:**
+- Automação de processos de limpeza e padronização com **Python (Pandas, Regex)**;  
+- Validação e consistência com **SQL**;  
+- Criação de **scripts automatizados** para otimização de rotinas;  
+- Desenvolvimento de dashboards em **Power BI** e **Tableau**;  
+- Documentação completa dos processos.
+
+---
+
+## 🎓 Formação Acadêmica
+- 🎓 **Mestrado em Biotecnologia (Bioinformática)** – IBB/UNESP (2023 - 2025)  
+- 🎓 **Bacharelado em Física Médica** – IBB/UNESP (2018 - 2023)  
+
+---
+
+## 🛠️ Habilidades Técnicas
+
+- **Linguagens:** Python | R | SQL  
+- **Bibliotecas:** Pandas | NumPy | Tidyverse | Scikit-learn  
+- **BI & Visualização:** Power BI | Tableau | Shiny  
+- **Banco de Dados:** BigQuery | SQL Server | MySQL  
+- **Outros:** Excel | Git/GitHub  
+
+---
 
 ## 📂 Projetos Destacados  
-📊 **[Projeto 1: Dashboard para Análise de Dados Financeiros](#)**  
-🤖 **[Projeto 2: Modelo Preditivo para Diagnóstico de Doenças](#)**  
-📈 **[Projeto 3: Algoritmos de Clusterização para Segmentação de Dados](#)**  
-- 🧪 [Portfólio de Projetos](https://github.com/seuusuario)
+📊 **[Projeto 1: Tratamento de Dados Cadastrais para BI](https://github.com/mah-amaral/Tratamento-Base-Dados-Cadastrais)**  
 
+---
 
 ## 📫 Como me encontrar  
+- ✉️ Email: **matheus.amaral.ds@outlook.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/maatheusamaral/)
 
 ---
