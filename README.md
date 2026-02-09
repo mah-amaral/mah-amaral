@@ -20,7 +20,7 @@ Mestre em Biotecnologia, desenvolvi soluções para análise exploratória, pré
 
 ## 💼 Experiência
 
-### 📌 Consultor de Dados (em andamento)
+### 📌 Consultor de Dados (concluído)
 - **Projeto 1**: Tratamento, padronização e estruturação de base de dados cadastrais de grande volume.  
 - **Projeto 2**: Desenvolvimento de dashboards interativos de desempenho, faturamento e marcas.  
 
