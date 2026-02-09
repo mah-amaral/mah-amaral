@@ -52,7 +52,7 @@ Mestre em Biotecnologia, desenvolvi soluções para análise exploratória, pré
 ## 📂 Projetos Destacados  
 📊 **[Projeto 1: Pipeline eventos corporativos para rede de bares e restaurantes](https://github.com/mah-amaral/data-pipeline-eventos-foodservice)**  
 📊 **[Projeto 2: Pipeline reservas para rede de bares e restaurantes](https://github.com/mah-amaral/data-cleaning-reservas-restaurantes)**  
-📊 **[Projeto 3: Pipeline dados cadastrais para BI](https://github.com/mah-amaral/Tratamento-Base-Dados-Cadastrais)**  
+📊 **[Projeto 3: Agente de IA para agendamento, rotulação e rascunho de e-mail](https://github.com/mah-amaral/n8n-ai-email-agent)**  
 
 ---
 
