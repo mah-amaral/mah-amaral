@@ -34,8 +34,8 @@ Mestre em Biotecnologia, desenvolvi soluções para análise exploratória, pré
 ---
 
 ## 🎓 Formação Acadêmica
-- 🎓 **Mestrado em Biotecnologia (Bioinformática)** – IBB/UNESP (2023 - 2025)  
-- 🎓 **Bacharelado em Física Médica** – IBB/UNESP (2018 - 2023)  
+- **Mestrado em Biotecnologia (Bioinformática)** – IBB/UNESP (2023 - 2025)  
+- **Bacharelado em Física Médica** – IBB/UNESP (2018 - 2023)  
 
 ---
 
@@ -45,7 +45,7 @@ Mestre em Biotecnologia, desenvolvi soluções para análise exploratória, pré
 - **Bibliotecas:** Pandas | NumPy | Tidyverse | Scikit-learn  
 - **BI & Visualização:** Power BI | Tableau | Shiny  
 - **Banco de Dados:** BigQuery | SQL Server | MySQL  
-- **Outros:** Excel | Git/GitHub  
+- **Outros:** Excel | n8n | Git/GitHub  
 
 ---
 
