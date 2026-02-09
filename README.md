@@ -50,9 +50,9 @@ Mestre em Biotecnologia, desenvolvi soluções para análise exploratória, pré
 ---
 
 ## 📂 Projetos Destacados  
-📊 **[Projeto 1: Tratamento, padronização e enriquecimento de dados de eventos corporativos para redes de bares e restaurantes](https://github.com/mah-amaral/data-pipeline-eventos-foodservice)**  
-📊 **[Projeto 2: Tratamento, padronização e enriquecimento de dados de reservas para redes de bares e restaurantes](https://github.com/mah-amaral/data-cleaning-reservas-restaurantes)**  
-📊 **[Projeto 3: Tratamento de Dados Cadastrais para BI](https://github.com/mah-amaral/Tratamento-Base-Dados-Cadastrais)**  
+📊 **[Projeto 1: Pipeline eventos corporativos para rede de bares e restaurantes](https://github.com/mah-amaral/data-pipeline-eventos-foodservice)**  
+📊 **[Projeto 2: Pipeline reservas para rede de bares e restaurantes](https://github.com/mah-amaral/data-cleaning-reservas-restaurantes)**  
+📊 **[Projeto 3: Pipeline dados cadastrais para BI](https://github.com/mah-amaral/Tratamento-Base-Dados-Cadastrais)**  
 
 ---
 
