@@ -2,9 +2,11 @@
 
 💡 **Data Analytics | Data Science**  
 
-Atuo como Cientista de Dados e Consultor na área de analytics, com experiência em análise de dados, modelagem preditiva e aprendizado de máquina, aplicando técnicas avançadas para transformar dados em insights estratégicos e apoiar a tomada de decisão orientada por dados.
+Cientista de Dados e Consultor de Dados, com 4 anos de experiência em tratamento, estruturação e análise de grandes volumes de dados, desenvolvimento de dashboards e automação de processos analíticos utilizando Python, R, SQL e ferramentas de BI.
 
-Mestre em Biotecnologia, desenvolvi soluções para análise exploratória, pré-processamento e modelagem de dados biológicos. Minha trajetória inclui a aplicação de técnicas estatísticas e de machine learning para extrair insights acionáveis e otimizar processos analíticos em diferentes contextos.
+Atuo em projetos de dados voltados à qualidade da informação, processos de ETL e construção de métricas e KPIs estratégicos, apoiando a tomada de decisão orientada por dados. Também possuo experiência com automações e orquestração de fluxos usando n8n, além de aplicações com IA e agentes inteligentes para otimização de processos e apoio a análises.
+
+Sou mestre em Biotecnologia com foco em Bioinformática, formação que me proporcionou uma base sólida em análise estatística, modelagem preditiva e aprendizado de máquina, com aplicação prática em análise exploratória, modelos de classificação e visualização de dados em Python e R.
 
 ---
 
